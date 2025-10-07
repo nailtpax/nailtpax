@@ -1,24 +1,22 @@
-```markdown
 # Hi everyone! 🛡️
 
-Sou profissional de segurança ofensiva em constante aprimoramento. Atualmente atuo como pentester pleno em projetos Black Box (Web/Infra/Wi-Fi/Mobile) e em operações de Red Team.
+I'm an offensive security professional in constant improvement. Currently working as a mid-level pentester, engaged in Black Box projects (Web/Infra/Wi-Fi/Mobile) and Red Team operations.
 
-## Objetivo 🎯
-Aprimorar minhas habilidades de programação para entender em profundidade o funcionamento interno de aplicações e sistemas afim de explorar técnicas avançadas de malware research com finalidade defensiva — fortalecer detecção e mitigação de ameaças e desenvolver soluções mais seguras. Interesse em engenharia reversa, evasão de defesas e análise de malwares.
+## Objective 🎯
+Enhancing my programming skills to deeply understand the internal workings of applications and systems, aiming to explore advanced malware research techniques for **defensive purposes** — strengthening threat detection and mitigation while developing more secure solutions. I’m particularly interested in **reverse engineering**, **defense evasion**, and **malware analysis**.
 
-## Principais competências 🧰
-- **Linguagens:** Python, C, Bash e PowerShell (em estudo)  
-- **Ambientes:** Web, Infraestrutura, Wi-Fi e Mobile  
-- **Tipos de testes:** Black Box, Gray Box e White Box  
+## Core Skills 🧰
+- **Languages:** Python, C, Bash, and PowerShell (currently studying)  
+- **Environments:** Web, Infrastructure, Wi-Fi, and Mobile  
+- **Testing types:** Black Box, Gray Box, and White Box  
 
-## Projetos desenvolvidos 📦
-- **keyhunter** — Script em python leve para identificar e coletar chaves/tokens em páginas HTML.  
-- **desec-pentest-scripts** — coleção de scripts e utilitários desenvolvidos durante o curso de Pentest da Desec.
+## Projects 📦
+- **keyhunter** — lightweight Python script to identify and collect keys/tokens from HTML pages.  
+- **desec-pentest-scripts** — collection of scripts and utilities developed during the Desec Pentest course.
 
-## Código e uso responsável ⚖️
-Projetos neste perfil têm fins de **pesquisa, defesa e educação**. **Não** use para atividades maliciosas. Ao identificar vulnerabilidades, siga práticas de divulgação responsável.
+## Responsible Use ⚖️
+All projects here are intended for **research, defense, and educational** purposes only. **Do not** use them for malicious activities. If you discover vulnerabilities, please follow responsible disclosure practices.
 
-## Contato 🔗
+## Contact 🔗
 - LinkedIn: https://www.linkedin.com/in/nailtonpaixao/  
 - Email: nailtpax@gmail.com
-```
