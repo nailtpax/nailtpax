@@ -1,5 +1,3 @@
-Perfeito — coloquei emojis discretos e com propósito (não infantis), mantendo tom técnico e profissional. Pronto para colar no seu README:
-
 ```markdown
 # Hi everyone! 🛡️
 
