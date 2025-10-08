@@ -19,4 +19,4 @@ All projects here are intended for **research, defense, and educational** purpos
 
 ## Contact 🔗
 - LinkedIn: https://www.linkedin.com/in/nailtonpaixao/  
-- Email: nailtpax@gmail.com
+<a href="https://www.linkedin.com/in/nailtonpaixao/ " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
