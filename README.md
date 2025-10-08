@@ -18,5 +18,4 @@ Enhancing my programming skills to deeply understand the internal workings of ap
 All projects here are intended for **research, defense, and educational** purposes only. **Do not** use them for malicious activities. If you discover vulnerabilities, please follow responsible disclosure practices.
 
 ## Contact 🔗
-- LinkedIn: https://www.linkedin.com/in/nailtonpaixao/  
 <a href="https://www.linkedin.com/in/nailtonpaixao/ " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
