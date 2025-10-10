@@ -13,6 +13,7 @@ Enhancing my programming skills to deeply understand the internal workings of ap
 ## Projects
 - **keyhunter** — lightweight Python script to identify and collect keys/tokens from HTML pages.  
 - **desec-pentest-scripts** — collection of scripts and utilities developed during the Desec Pentest course.
+- pentest-scripts - Repository with scripts and codes useful for **pentest**, **reconhecimento**, **exploração** and **automation of offensive security tasks** activities.
 
 ## Responsible Use
 All projects here are intended for **research, defense, and educational** purposes only. **Do not** use them for malicious activities. If you discover vulnerabilities, please follow responsible disclosure practices.
